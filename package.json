@@ -1,0 +1,14 @@
+{
+  "name": "my-whatsapp-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.18",
+    "dotenv": "^16.4.7",
+    "openai": "^4.80.0",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
